@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nogizaka46 on Clarity</title>
+    <link>https://example.com/tags/nogizaka46/</link>
+    <description>Recent content in nogizaka46 on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/nogizaka46/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nogizaka46</title>
+      <link>https://example.com/post/nogi/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/nogi/</guid>
+      <description>
+        
+          
+            &lt;p&gt;あいうえお&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
